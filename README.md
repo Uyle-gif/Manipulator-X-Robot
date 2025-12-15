@@ -1,4 +1,4 @@
-# 🤖 Manipulator-X: 4-DOF Robot Arm Simulation
+# Manipulator-X: 4-DOF Robot Arm Simulation
 
 ![MATLAB](https://img.shields.io/badge/Built%20with-MATLAB-orange)
 ![Robotics](https://img.shields.io/badge/Field-Robotics-blue)
@@ -14,17 +14,17 @@ This software simulates the **OpenManipulator-X**, a widely used open-source rob
 
 This project provides a comprehensive environment to visualize and analyze robotic movements, featuring **Forward/Inverse Kinematics (FK/IK)**, **Workspace visualization**, and **LSPB Trajectory Planning** with real-time velocity/acceleration graphs.
 
-## 🌟 Key Highlights:
+## Key Highlights:
 * Interactive 3D control & animation.
 * Smart IK solver with Backward Reach capability.
 * Smooth trajectory generation (Trapezoidal Velocity).
 * Safety checks (Singularity, Collision, Limits).
 
-## 🖥️ Main Interface
+## Main Interface
 ![alt text](image.png) 
 
 
-## ⚠️ Disclaimer 
+## Disclaimer 
 
  This project is a student assignment created for educational purposes. The code may contain bugs, is not fully optimized, and the calculations may not be absolutely precise. Use at your own risk.
 
