@@ -5,7 +5,7 @@
 
 **Manipulator-X** is a GUI-based simulation tool for a 4-Degree-of-Freedom (4-DOF) robotic arm, developed using **MATLAB App Designer**.
 
-## 🔗 Hardware Reference (ROBOTIS)
+## Hardware Reference (ROBOTIS)
 
 This software simulates the **OpenManipulator-X**, a widely used open-source robotic arm developed by **ROBOTIS**.
 
