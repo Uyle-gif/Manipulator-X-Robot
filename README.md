@@ -21,7 +21,7 @@ This project provides a comprehensive environment to visualize and analyze robot
 * Safety checks (Singularity, Collision, Limits).
 
 ## Main Interface
-![alt text](img/image.png) 
+![alt text](image.png) 
 
 
 ## Disclaimer 
